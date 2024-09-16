@@ -1,3 +1,10 @@
+#Code is meant to add 5th column to csv file
+#Segment_length = loc.end - loc.start
+#csv is used as it is in the standard library
+#Make sure you are in the correct folder (containing input file) and script
+#when executing the script 
+#Use python assignment_addcolumn_wstandardlib.py to run the script.
+
 import csv
 
 # Step 1: Load the CSV file into a list of dictionaries
